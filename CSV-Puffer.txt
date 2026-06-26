@@ -1,0 +1,25 @@
+AUFGABE 1 09_data-ex_01-2.py 18-06-2026
+df = pd.read_csv("Auto.csv") 
+AUFGABE 2 09_data-ex_03-1.py 18-06-2026
+df = pd.read_csv("advertising.csv") 
+AUFGABE 3 09_data-ex_03-8.py 18-06-2026
+df = pd.read_csv("advertising.csv")
+# AUFGABE 4 09_data-ex_04-1.py 19-06-2026
+df = pd.read_csv("Auto.csv")
+# AUFGABE 5 09_data-ex_04-2.py 19-06-2026
+df = pd.read_csv("Auto.csv")
+# AUFGABE 6 09_data-ex_04-4c.py 19-06-2026
+df_original = pd.read_csv("Auto.csv")
+# AUFGABE 7 09_data-ex_04-7.py 19-06-2026
+df = pd.read_csv("Auto-reduced.csv")
+df = pd.read_csv("Auto-normalized.csv")  
+# AUFGABE 8 09_data-ex_04_New-Twin_06d.py (20-06-2026)
+file_orig = "Auto-normalized.csv"
+file_redu = "Auto-reduced.csv"
+# AUFGABE 9 09_data-ex_04_New-Twin_07.py (20-06-2026)
+file_orig = "Auto-normalized.csv"
+file_redu = "Auto-reduced.csv"
+# AUFGABE 10 04_twin_plotter_2022.py
+file_A = "02_WB44-2022_A_Normalized.csv"
+file_B = "03_WB44-2022_VerglAuswahl.csv"
+file_C = "WBANK44_INDIK4.csv"
